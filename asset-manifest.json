@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ElenaLatynina/goit-react-hw-03-image-finder.git/static/css/main.94af3c0d.css",
-    "main.js": "/ElenaLatynina/goit-react-hw-03-image-finder.git/static/js/main.e5a5092c.js",
+    "main.js": "/ElenaLatynina/goit-react-hw-03-image-finder.git/static/js/main.f01637eb.js",
     "index.html": "/ElenaLatynina/goit-react-hw-03-image-finder.git/index.html",
     "main.94af3c0d.css.map": "/ElenaLatynina/goit-react-hw-03-image-finder.git/static/css/main.94af3c0d.css.map",
-    "main.e5a5092c.js.map": "/ElenaLatynina/goit-react-hw-03-image-finder.git/static/js/main.e5a5092c.js.map"
+    "main.f01637eb.js.map": "/ElenaLatynina/goit-react-hw-03-image-finder.git/static/js/main.f01637eb.js.map"
   },
   "entrypoints": [
     "static/css/main.94af3c0d.css",
-    "static/js/main.e5a5092c.js"
+    "static/js/main.f01637eb.js"
   ]
 }
